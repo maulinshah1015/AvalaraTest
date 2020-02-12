@@ -1,0 +1,13 @@
+D:\Desktop Data\Project\GoogleHashCode2019\GoogleHashCode2019\bin\Debug\AvalaraTest.exe.config
+D:\Desktop Data\Project\GoogleHashCode2019\GoogleHashCode2019\bin\Debug\AvalaraTest.exe
+D:\Desktop Data\Project\GoogleHashCode2019\GoogleHashCode2019\bin\Debug\AvalaraTest.pdb
+D:\Desktop Data\Project\GoogleHashCode2019\GoogleHashCode2019\obj\Debug\AvalaraTest.csproj.CoreCompileInputs.cache
+D:\Desktop Data\Project\GoogleHashCode2019\GoogleHashCode2019\obj\Debug\AvalaraTest.exe
+D:\Desktop Data\Project\GoogleHashCode2019\GoogleHashCode2019\obj\Debug\AvalaraTest.pdb
+D:\Desktop Data\Project\GoogleHashCode2019\AvalaraTest\bin\Debug\AvalaraTest.exe.config
+D:\Desktop Data\Project\GoogleHashCode2019\AvalaraTest\bin\Debug\AvalaraTest.exe
+D:\Desktop Data\Project\GoogleHashCode2019\AvalaraTest\bin\Debug\AvalaraTest.pdb
+D:\Desktop Data\Project\GoogleHashCode2019\AvalaraTest\obj\Debug\AvalaraTest.csprojAssemblyReference.cache
+D:\Desktop Data\Project\GoogleHashCode2019\AvalaraTest\obj\Debug\AvalaraTest.csproj.CoreCompileInputs.cache
+D:\Desktop Data\Project\GoogleHashCode2019\AvalaraTest\obj\Debug\AvalaraTest.exe
+D:\Desktop Data\Project\GoogleHashCode2019\AvalaraTest\obj\Debug\AvalaraTest.pdb
